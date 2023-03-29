@@ -1,8 +1,12 @@
 # dino-linuxmint
-some of my installed applications on my [Linux Mint](https://linuxmint.com/)
+The utilities I use(d) on my [LinuxMint](https://linuxmint.com) installation
 
-## how to run:
+## install
 
 ```bash
-sh start.sh
+sudo apt update && sudo apt install git # install git
+
+git clone https://github.com/DinoMarlir/dino-linuxmint # clone this repo
+
+sh start.sh # start the installer
 ```
