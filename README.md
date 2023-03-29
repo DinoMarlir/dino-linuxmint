@@ -1,6 +1,8 @@
 # dino-linuxmint
-The utilities I use(d) on my [LinuxMint](https://linuxmint.com) installation
+some of my installed applications on my [Linux Mint](https://linuxmint.com/)
 
-## install
+## how to run:
 
-clone this repo and run `sh start.sh`
+```bash
+sh start.sh
+```
