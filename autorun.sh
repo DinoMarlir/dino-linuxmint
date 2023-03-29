@@ -9,4 +9,6 @@ git clone https://github.com/DinoMarlir/dino-linuxmint
 
 cd dino-linuxmint
 
+chmod +x start.sh
+
 sh start.sh
