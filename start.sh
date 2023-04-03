@@ -17,14 +17,6 @@ then
     sh installers/laboratory.sh
 fi 
 
-# torch
-read -p "Do you want to install torch [https://github.com/mooziii/torch/]? (y/N) " -n 1 -r
-echo    
-if [[ $REPLY =~ ^[Yy]$ ]]
-then
-    sh installers/torch.sh
-fi 
-
 # shell-color-scripts
 read -p "Do you want to install shell-color-scripts [https://gitlab.com/dwt1/shell-color-scripts]? (y/N) " -n 1 -r
 echo    
